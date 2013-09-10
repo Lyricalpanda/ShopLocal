@@ -1,0 +1,14 @@
+
+*.xcscheme
+
+*.plist
+
+*.xcsettings
+
+*.xcuserstate
+
+*.xcbkptlist
+
+*.xcworkspacedata
+
+.DS_Store

@@ -1,0 +1,20 @@
+
+PODS:
+- JSONKit (HEAD based on 1.5pre)
+- MKNetworkKit (HEAD based on 0.87):
+  - Reachability (~> 3.1.0)
+- Reachability (3.1.0)
+- SBJson (HEAD based on 3.2)
+
+DEPENDENCIES:
+- JSONKit (HEAD)
+- MKNetworkKit (HEAD)
+- SBJson (HEAD)
+
+SPEC CHECKSUMS:
+  JSONKit: 3d4708953ea7ae399a49777372d8b060a43ddd27
+  MKNetworkKit: 3d581af82df1a59e38efef8afef08437cef0df69
+  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
+  SBJson: 4971016670e7b3fa04a36d4e72ab0fb1ad3a9f69
+
+COCOAPODS: 0.16.4

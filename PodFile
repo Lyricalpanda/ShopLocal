@@ -1,0 +1,4 @@
+platform :ios
+pod 'JSONKit', :head
+pod 'MKNetworkKit', :head
+pod 'SBJson', :head
